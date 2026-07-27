@@ -1,4 +1,4 @@
-# Capstone---Storytelling
+# Capstone : Storytelling
 
 # CFPB Consumer Complaints Analysis: Experian Information Solutions Inc.
 
